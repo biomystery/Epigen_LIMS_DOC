@@ -1,4 +1,7 @@
 # Summary
 * [Preface](README.md)
-* [FAQs](fq.md)
+* [SeqManager_app](./seqmanager_app/intro.md)
+* [MetaData_app](./metadata_app/intro.md)
+  * [FAQs](./metadata_app/fq.md)
+* [SetQC_app](./setqc_app/intro.md)
 
