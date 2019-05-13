@@ -1,6 +1,5 @@
 # FAQs
 
-
 ## Library name convention
 
 1. Named using `initials_nth`: e.g.: `JYH_123` 
@@ -15,7 +14,6 @@ sequencing). Then the next sequencing made from the same library named
 as "JYH_123_2" and etc. 
 
 ## Pooled libraries
-
 The pooled lirary should be named as `JYH_123_1_2` and etc. For
 `JYH_123_1_2`, it means to pool `JYH_123` and `JYH_123_2` togather. If
 you want to pool `JYH_123` and `JYH_123_3` togather, then the name
