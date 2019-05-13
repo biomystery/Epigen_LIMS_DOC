@@ -12,7 +12,7 @@
 
 * Use the `_1_2` convention to indicated which sequecing run from this
   library to pool. For example, `JYH_123_1_2` means you are going to
-  pool sequencing runs `JYH_123` and `JYH_123_2` togather.
+  pool sequencing runs `JYH_123` and `JYH_123_2` together.
   
 * Notice that the first sequecing from a library we **don't** use `_1`
   to indicate that because not all libraries will sequece more than 1
