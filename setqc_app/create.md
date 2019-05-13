@@ -11,17 +11,17 @@
 ## To created a report including `pooled` libraries: 
 
 * Use the `_1_2` convention to indicated which sequecing run from this
-  library to pool. For example, 'JYH_123_1_2` means you are going to
-  pool sequencing `JYH_123` and `JYH_123_2` togather.
+  library to pool. For example, `JYH_123_1_2` means you are going to
+  pool sequencing runs `JYH_123` and `JYH_123_2` togather.
   
 * Notice that the first sequecing from a library we **don't** use `_1`
   to indicate that because not all libraries will sequece more than 1
   time. So no `JYH_123_1` for the first sequencing for library
   `JYH_123`. 
   
-* Again, for the pooled sequecing `JYH_123_1_2`. It is also required
-  to create pseduo-sequecing item in the metaData app to allow setQC
-  app to call. 
+* Again, for any the pooled sequecing (e.g. `JYH_123_1_2`), it is also required
+  to create pseduo-sequecing sequecing with the pooled id
+  (e.g. `JYH_123_1_2`) in the metaData app to allow setQC app to call.
   
   
   
