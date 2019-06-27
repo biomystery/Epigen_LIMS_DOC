@@ -32,7 +32,7 @@ you could go to [Collaborators Table](http://epigenomics.sdsc.edu:8000/manager/c
 If they have passed the validations, you would see the extra columns of 
 "group","research_person" and "fiscal_person_index" in the Preview page:
 
-<img src="https://github.com/biomystery/Epigen_LIMS_DOC/blob/master/metadata_app/images/preview.png" width="800" align="middle">
+<img src="https://raw.githubusercontent.com/biomystery/Epigen_LIMS_DOC/blob/master/metadata_app/images/preview.png" width="800" align="middle">
 
 If not, the app would report an error and you could not save the samples 
 into database. 
@@ -40,7 +40,7 @@ The error message would tell you what is wrong and instruct you to fix
 them, like an example shows below. In this example, the group name is misspelled:
 <br /><br />
 
-<img src="https://github.com/biomystery/Epigen_LIMS_DOC/blob/master/metadata_app/images/error_group.png" width="600" align="middle">
+<img src="https://raw.githubusercontent.com/biomystery/Epigen_LIMS_DOC/blob/master/metadata_app/images/error_group.png" width="600" align="middle">
 
 
 
