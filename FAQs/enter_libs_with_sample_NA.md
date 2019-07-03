@@ -1,12 +1,12 @@
 ## Enter external libs with no Sample info
 
-```
+### With multiple libs from same sample
+
 If there are multiple libraries from the same sample, there you will enter a problem showing: duplicated sample name
-```
+
 ![duplicated sample name problem](enter_libs_with_sample_img0.png)
 
-
-Steps to avoid duplicated `Sample Name` problem:
+### Steps to enter these libs
 
 1. Create Libs in Tracking sheet 2 with `NA` in `Sample Index` but with valid `sample name`
 
