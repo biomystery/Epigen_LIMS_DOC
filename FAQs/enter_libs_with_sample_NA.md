@@ -1,6 +1,6 @@
 ## Enter external libs with no Sample info
 
-Major steps:
+Major steps to avoid duplicated `Sample Name`:
 
 1. Create Libs in Tracking sheet 2 with `NA` in `Sample Index` but with valid `sample name`
 
