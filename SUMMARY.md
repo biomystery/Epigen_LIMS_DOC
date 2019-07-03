@@ -6,3 +6,5 @@
   * [FAQs](./metadata_app/fq.md)
 * [SetQC_app](./setqc_app/intro.md)
   * [create](./setqc_app/create.md)
+* [FAQs](./FAQs/intro.md)  
+  * [Enter external libs with no Sample info](./FAQs/enter_libs_with_sample_NA.md)

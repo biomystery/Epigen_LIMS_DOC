@@ -1,0 +1,17 @@
+*## Enter external libs with no Sample info
+
+Major steps:
+
+1. Create Libs in Tracking sheet 2 with `NA` in `Sample Index` but with valid `sample name`
+
+2. Copy created libs column from Tracking Sheet 2 that have unique `sample name` to [add new libs@LIMS](http://epigenomics.sdsc.edu:8000/metadata/libraries/adds/) 
+![Select libs with unique sample name.](enter_libs_with_sample_img1.png)
+
+3. In preview page, record the automatically assigned `sample index` and copy  these sample index in Tracking sheet 2 for the remaining libs that you haven't enter and click confirm to save these first set of libs. 
+![Copy newly generated sample index in Preview](enter_libs_with_sample_img2.png)
+
+4. Copy the remaining libraries with newly generated `sample index` to tracking sheet 2. 
+![Paste the assigned sample index in tracking sheet 2 for the remaining libs](enter_libs_with_sample_img3.png)
+
+5. Paste the remaining libs  to [add new libs@LIMS](http://epigenomics.sdsc.edu:8000/metadata/libraries/adds/).  Click save and confirm to save the remaining libs 
+![Paste the remaining libs to lims to save them.](enter_libs_with_sample_img4.png)

@@ -33,6 +33,7 @@ If they have passed the validations, you would see the extra columns of
 "group","research_person" and "fiscal_person_index" in the Preview page:
 
 <img src="https://raw.githubusercontent.com/biomystery/Epigen_LIMS_DOC/blob/master/metadata_app/images/preview.png" width="800" align="middle">
+![preview](./images/preview.png)
 
 If not, the app would report an error and you could not save the samples 
 into database. 
