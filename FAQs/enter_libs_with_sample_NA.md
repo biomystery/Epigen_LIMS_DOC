@@ -1,4 +1,4 @@
-*## Enter external libs with no Sample info
+## Enter external libs with no Sample info
 
 Major steps:
 
